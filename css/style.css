@@ -77,7 +77,6 @@ body {
 }
 
 /* qr code */
-
 #qr_code {
     display: flex;
     opacity: 0;
