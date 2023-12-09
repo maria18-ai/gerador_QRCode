@@ -23,8 +23,10 @@ Depois disso, basta dar o comando git clone no terminal com a URL copiada:
 
 ## 👩‍💻 Como Utilizar
 
-Abra a aplicação e adicione o texto ou URL desejada no campo de texto
+Abra a aplicação e adicione o texto ou URL desejada no campo de texto 
+
 Pressionando a tecla "ENTER" ou clicando no botão "Gerar QR Code"
+
 Será gerado um QR Code funcional para você!
 
 
