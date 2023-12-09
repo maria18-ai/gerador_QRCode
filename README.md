@@ -38,4 +38,10 @@ Será gerado um QR Code funcional para você!
 
 Utilizado também a API do https://goqr.me/api/.
 
+## GitHub Pages
+
+```
+https://maria18-ai.github.io/gerador_QRCode/
+```
+
 Feito com ❤ por Maria.
